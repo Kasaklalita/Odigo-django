@@ -1,0 +1,1 @@
+web: gunicorn 'Odigo_django.wsgi'
